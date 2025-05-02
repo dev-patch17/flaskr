@@ -10,3 +10,7 @@ Dependency declaration in `requirements.txt`. Rebuild by running:
 ```
 pip install -r requirements.txt
 ```
+
+This project can be picked up at the
+[Make the Project Installable](https://flask.palletsprojects.com/en/stable/tutorial/install/)
+section of the tutorial.
